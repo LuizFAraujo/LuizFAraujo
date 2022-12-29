@@ -91,4 +91,4 @@
 </p>
 
 ---
-
+![Snake animation](https://github.com/LuizFAraujo/LuizFAraujo/blob/output/github-contribution-grid-snake.svg)
